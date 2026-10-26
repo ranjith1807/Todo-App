@@ -1,0 +1,9 @@
+# Backend
+backend/.venv/
+backend/__pycache__/
+backend/todos.db
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+.DS_Store
